@@ -1,0 +1,12 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=gilnavon
+$$ 2018-09-05 17:25:11.054 +0200  gilnavon@CZC7238NT5
+$$ /opt/PV6.0.1/data/gilnavon/20180905_163621_EW_Cup_Treat_05_2LE_EW_Cup_Treat_05_2LE_1_1/16/pdata/1/id
+$$ process /opt/PV6.0.1/prog/bin/parxserver
+##$DATASET_KEY=( 65 )
+<2.16.756.5.5.100.8323328.103382.1536161111.1749>
+##END=
+$$ File finished by PARX at 2018-09-05 17:25:11.054 +0200
