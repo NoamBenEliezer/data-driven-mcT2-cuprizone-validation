@@ -1,0 +1,13 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=gilnavon
+$$ 2018-09-07 15:27:21.033 +0200  gilnavon@CZC7238NT5
+$$ /opt/PV6.0.1/data/gilnavon/20180907_114442_EW_Cup_control_04_NN_EW_Cup_control_04_NN_1_1/20/pdata/1/procs
+$$ process /opt/PV6.0.1/prog/bin/parxserver
+##$OFFSET=83.2400028118958
+##$SF=300.336366596413
+##$YMAX_p=2889
+##$YMIN_p=79
+##END=
