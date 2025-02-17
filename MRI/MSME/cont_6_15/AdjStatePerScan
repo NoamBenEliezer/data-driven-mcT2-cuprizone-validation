@@ -1,0 +1,26 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=gilnavon
+$$ 2018-09-06 19:22:27.726 +0200  gilnavon@CZC7238NT5
+$$ /opt/PV6.0.1/data/gilnavon/20180906_154215_EW_Cup_control_02_LE_EW_Cup_control_02_LE_1_1/15/AdjStatePerScan
+$$ process /opt/PV6.0.1/prog/mod/pipe
+##$AdjScanStateCompleted=Yes
+##$AdjScanStateAdjName=( 2, 128 )
+<SHIM_Scan> <RCVR_Standard>
+##$AdjScanStateCategory=( 2 )
+SHIM RCVR
+##$AdjScanStateTime=( 2 )
+<2018-09-06T19:22:05,149+0200> <2018-09-06T19:22:05,192+0200>
+##$AdjScanStateExpno=( 2 )
+15 15
+##$AdjScanStateState=( 2 )
+adj_successful adj_successful
+##$AdjScanStateResultId=( 2, 65 )
+<2.16.756.5.5.100.8323328.130856.1536254450.14> 
+<2.16.756.5.5.100.8323328.130856.1536254450.15>
+##$AdjScanStateMethod=( 2, 128 )
+<Bruker:AdjShim> <Bruker:MSME>
+##END=
+$$ File finished by PARX at 2018-09-06 19:22:27.726 +0200
